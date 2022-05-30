@@ -124,7 +124,7 @@ a{text-decoration: none;}
 
 
 @media(max-width:1199px){
-    #weather{width: 100%;}
+    #weather{width: 100%; }
 }
 @media(max-width:991px){
     #weather ul li{width: calc(100% / 2 - 20px);}
